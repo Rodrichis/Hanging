@@ -12,8 +12,6 @@ let words =[
 'REACT',
 ];
 
-
-
 export function getRandomWord(){
     const ramdonIndex = Math.floor(Math.random()*words.length) ;
 
