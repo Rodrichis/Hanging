@@ -3,7 +3,13 @@ let words =[
 'PERRO',
 'PROGRAMA',
 'CELULAR',
-'TELEFONO',
+'AUTO',
+'MANZANA',
+'GATO',
+'VIDEO',
+'MONO',
+'PLATANO',
+'REACT',
 ];
 
 
